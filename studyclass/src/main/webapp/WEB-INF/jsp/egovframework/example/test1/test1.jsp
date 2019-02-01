@@ -29,12 +29,6 @@ function nextP(){
 <body>
 <div style="font-family: testfont;">
 
-@ 스티브리자바 이클립스 <br><br>
-1 아래 url로 연결하여 압축파일을 다운로드 받는다 ( 바이러스 이런 단어는 무시하고 다운로드 )<br>
-2 c드라이브 c:\ 경로로 가져와서 앞축을 푼다<br>
-3 스티브리자바 폴더 안에 eclipse.exe를 실행한다<br>
-
-https://drive.google.com/open?id=1kmWP0siAG4IE0YHXOtOgoST4NYTuOFIs<br><br>
 
 @ git 프로젝트 연결<br><br>
 url : https://github.com/steveleejava0902/studytest.git<br>

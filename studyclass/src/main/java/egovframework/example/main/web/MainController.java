@@ -121,4 +121,10 @@ public class MainController {
 		return "test1/test3.tiles";
 	}
 	
+	@RequestMapping(value = "test4.do")
+	public String test4(ModelMap model) throws Exception {
+		
+		return "test1/test4.tiles";
+	}
+	
 }
