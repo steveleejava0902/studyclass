@@ -2,7 +2,6 @@
 
 <meta charset="utf-8">
 
-<link rel="icon" type="image/png" href="images/bootstrap/favicon.ico">
 
 <!-- Bootstrap core CSS     -->
 <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />

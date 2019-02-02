@@ -5,7 +5,7 @@
 <html>
 <script>
 function goGit(){
-	window.open('https://m.blog.naver.com/PostView.nhn?blogId=kimnx9006&logNo=220574706346&proxyReferer=https%3A%2F%2Fwww.google.com%2F','_blank');
+	window.open('https://codedragon.tistory.com/49','_blank');
 }
 
 function nextP(){

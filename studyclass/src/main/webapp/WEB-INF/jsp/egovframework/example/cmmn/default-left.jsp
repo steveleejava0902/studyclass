@@ -31,7 +31,7 @@
         <ul class="nav">
             <li class="active">
                 <a href="main.do">
-                    <i class="pe-7s-graph"></i>
+                    <i class=""></i>
                     <p>HOME</p>
                 </a>
             </li>
